@@ -28,7 +28,7 @@ is stable by introducing type parameters via pyright
 | Maybe Type       | ✔️     |
 | Either Type      | ❌     |
 | Node             | ✔️     |
-| Stack            | ❌     |
+| Stack            | ✔️     |
 | Queue            | ❌     |
 | Deque            | ❌     |
 | LinkedList       | ❌     |
